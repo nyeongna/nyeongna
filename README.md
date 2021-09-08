@@ -53,7 +53,7 @@
 
 ## Problem Solving Stats
 <div align="center">
-  [![jin03114's Solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
+  [![jin03114's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
   
 </div> 
 
