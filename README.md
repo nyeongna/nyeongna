@@ -46,7 +46,7 @@
   
 <br/>
 
-## Problem Solving Stats
+## Cards - Problem Solving
 <div align="center">
   [![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
   [![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
