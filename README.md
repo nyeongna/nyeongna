@@ -53,9 +53,8 @@
 
 ## Problem Solving Stats
 <div align="center">
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
+  [![jin03114's Solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
+  
 </div> 
 
 ## Github Stats  
