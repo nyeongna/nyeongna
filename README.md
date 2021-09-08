@@ -45,7 +45,7 @@
 </div>
 <br/>
 
-## Cards - Problem Solving
+## Problem Solving Stats
 <div align="center">
 
 [![solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/profile/jin03114)
