@@ -67,4 +67,25 @@
 </div> 
 <br/>  
 
+## Cards - Github
+<div align="center">
+
+[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=inclue&show_icons=true&hide_border=true)](https://github.com/inclue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
+
+</div>
+
+## Cards - Problem Solving
+<div align="center">
+
+[![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
+[![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
+
+</div>
+
+<div align="center">
+ 
+Go To [My Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
+
+</div>
 ----
