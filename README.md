@@ -53,7 +53,7 @@
 
 ## Problem Solving Stats
 <div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
 </div> 
 
 ## Github Stats  
