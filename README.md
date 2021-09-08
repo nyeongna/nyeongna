@@ -42,10 +42,16 @@
   <a href="https://linkedin.com/in/jaejin-lee-40b0711a9" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>  
-</div>  
-  
+</div>
 <br/>
+  
+## Cards - Problem Solving
+<div align="center">
 
+[![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
+[![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
+
+</div>
 ## Cards - Problem Solving
 <div align="center">
   [![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
