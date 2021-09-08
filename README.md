@@ -55,6 +55,9 @@
 <div align="center">
   [![jin03114's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/jin03114/)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dlstj0923)](https://solved.ac/dlstj0923)
+
   
 </div> 
 
