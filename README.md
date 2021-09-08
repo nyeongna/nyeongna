@@ -39,9 +39,6 @@
   <a href="https://github.com/nyeongna" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/iamrishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
   <a href="https://linkedin.com/in/jaejin-lee-40b0711a9" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>  
@@ -52,6 +49,9 @@
 ## Problem Solving Stats
 <div align="center">
   [![solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/profile/jin03114)
+  [![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
+  [![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
+
 </div> 
 
 ## Github Stats  
