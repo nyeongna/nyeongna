@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -10,7 +10,7 @@
 
 ## My Skill Set  
 <table>
-  
+
 <tr><td valign="top" width="50%">
   
 ### Frontend  
@@ -32,18 +32,14 @@
   
 <br/>  
 
-github-readme-stats.vercel.app/api?username=nyeongna&show_icons=true
-
-
-
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/nyeongna" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/jaejin-lee-40b0711a9" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
+<a href="https://github.com/nyeongna" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jaejin-lee-40b0711a9" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>
 <br/>
 
@@ -58,9 +54,9 @@ github-readme-stats.vercel.app/api?username=nyeongna&show_icons=true
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
 
-</div> 
+</div>
+  
 <br/>  
 
 ----
