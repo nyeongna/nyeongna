@@ -60,8 +60,8 @@
 ## Cards - Github
 <div align="center">
 
-[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=inclue&show_icons=true&hide_border=true)](https://github.com/inclue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
+[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=jin03114&show_icons=true&hide_border=true)](https://github.com/inclue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin03114&layout=compact)](https://github.com/inclue)
 
 </div>
 
