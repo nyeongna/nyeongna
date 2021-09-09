@@ -32,7 +32,9 @@
   
 <br/>  
 
- 
+github-readme-stats.vercel.app/api?username=nyeongna&show_icons=true
+
+
 
 ## Connect with me  
 <div align="center">
