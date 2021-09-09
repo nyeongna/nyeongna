@@ -49,19 +49,11 @@
 [![solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/profile/jin03114)
 
 </div>
-
-## Github Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
-
-</div>
   
-## Cards - Github
+## Github Stats
 <div align="center">
 
-[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=nyeongna&show_icons=true&hide_border=true)](https://github.com/inclue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact)](https://github.com/inclue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact)](https://github.com/nyeongna)
 
 </div>
 
