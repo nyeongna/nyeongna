@@ -49,7 +49,7 @@
 <div align="center">
 
 [![solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin03114)](https://solved.ac/profile/jin03114)
-[![solvedac profile]https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact
+[![solvedac profile]https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact(https://solved.ac/profile/jin03114)
 [![solvedac profile]https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact
 </div>
 [![solvedac profile]https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact
