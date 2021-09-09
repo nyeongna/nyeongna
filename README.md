@@ -58,6 +58,7 @@ github-readme-stats.vercel.app/api?username=nyeongna&show_icons=true
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
 
 </div> 
 <br/>  
