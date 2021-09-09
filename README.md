@@ -54,10 +54,10 @@
 
 ## Github Stats  
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact)](https://github.com/nyeongna/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
-  https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact
-  https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact)](https://github.com/nyeongna/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact" align="center" />
+https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&layout=compact
+https://github-readme-stats.vercel.app/api/top-langs/?username=nyeongna&hide_border=true&layout=compact
 </div> 
 <br/>  
 
