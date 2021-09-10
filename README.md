@@ -10,6 +10,7 @@
 
 ## My Skill Set  
 <div align="center">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=appveyor&logoColor=ffffff"/>
 </div>
 
 ## Connect with me  
