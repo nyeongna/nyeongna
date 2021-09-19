@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm JAEJIN, a final year Computer Science student at The Chinese University of Hong Kong 👨‍💻</div>  
-- 🌱 I’m currently learning Data Engineering (AirFlow & EC2)  
+- 🌱 I’m currently learning Data Engineering (AirFlow & AWS Services)  
 - ⚡ Strong belief in the world driven by the data  
 <br/>  
 
